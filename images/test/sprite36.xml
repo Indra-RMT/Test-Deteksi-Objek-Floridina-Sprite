@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>sprite36.jpg</filename>
+	<path>C:\deteksi\images\test\sprite36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sprite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>735</xmin>
+			<ymin>931</ymin>
+			<xmax>1373</xmax>
+			<ymax>2817</ymax>
+		</bndbox>
+	</object>
+</annotation>

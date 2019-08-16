@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>floridina21.jpg</filename>
+	<path>C:\deteksi\images\train\floridina21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Floridina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymin>360</ymin>
+			<xmax>1416</xmax>
+			<ymax>2236</ymax>
+		</bndbox>
+	</object>
+</annotation>

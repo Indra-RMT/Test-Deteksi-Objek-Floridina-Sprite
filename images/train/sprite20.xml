@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sprite20.jpg</filename>
+	<path>C:\deteksi\images\train\sprite20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sprite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>684</ymin>
+			<xmax>1559</xmax>
+			<ymax>2736</ymax>
+		</bndbox>
+	</object>
+</annotation>

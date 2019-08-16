@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>floridina36.jpg</filename>
+	<path>C:\deteksi\images\test\floridina36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Floridina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>873</xmin>
+			<ymin>670</ymin>
+			<xmax>1692</xmax>
+			<ymax>2531</ymax>
+		</bndbox>
+	</object>
+</annotation>
